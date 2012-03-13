@@ -1,4 +1,4 @@
-Noname::Application.routes.draw do
+Recommendation_engine::Application.routes.draw do
   resources :recs
   root :to => 'recs#index'
 

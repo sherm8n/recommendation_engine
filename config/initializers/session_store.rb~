@@ -1,6 +1,6 @@
 # Be sure to restart your server when you modify this file.
 
-Recommendation_engine::Application.config.session_store :cookie_store, :key => '_recommendation_engine_session'
+Noname::Application.config.session_store :cookie_store, :key => '_noname_session'
 
 # Use the database for sessions instead of the cookie-based default,
 # which shouldn't be used to store highly confidential information
