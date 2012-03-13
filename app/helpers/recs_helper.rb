@@ -1,0 +1,2 @@
+module RecsHelper
+end
